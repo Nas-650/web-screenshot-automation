@@ -1,0 +1,5 @@
+# Sample URLs for Firecrawl scraper
+# Main pages
+https://regentcaravans.com.au/
+
+# Add more URLs as needed 

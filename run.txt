@@ -1,0 +1,5 @@
+# For a single URL
+node firecrawl-scraper.js --url https://snowyrivercaravans.com.au/
+
+# For multiple URLs from the urls.txt file
+node firecrawl-scraper.js --urls-file urls.txt
